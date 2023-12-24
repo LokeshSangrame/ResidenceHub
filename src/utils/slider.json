@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Shapoorji Pallonji Real Estate",
+    "price": "30 Lakhs",
+    "detail": "Plot No 25, near Indrayani TVS Showroom, Dhadiwal Layout, Joginagar, Badil Kheda, Nagpur, Maharashtra 440027",
+    "image": "./shapoor.jpg"
+  },
+  {
+    "name": "Godrej Properties",
+    "price": "50 Lakhs",
+    "detail": "4W2H+WH6, Godrej Rd, opposite Godrej Memorial Hospital, Pirojshanagar, Vikhroli, Mumbai, Maharashtra 400079",
+    "image": "./godrej.jpg"
+  },
+  {
+    "name": "Pride Purple",
+    "price": "25 Lakhs",
+    "detail": "Ashirwad Theatre Complex, Baidhyanath Chowk, Untkhana, Nagpur, Maharashtra 440018",
+    "image": "./pride.jpg"
+  },
+  {
+    "name": "Kalpataru Limited Nagpur",
+    "price": "20 Lakhs",
+    "detail": "Simran Tower, 3rd Floor, Dharampeth, Nagpur, Maharashtra 440010",
+    "image": "./kalpataru.jpg"
+  },
+  {
+    "name": "Rustomjee Developers",
+    "price": "40 Lakhs",
+    "detail": "Flat No 201, Plot No.01, Vinayak Enclave, Beltarodi Rd, near Epicure Food Plaza, Manish Nagar, T Point, Nagpur, Maharashtra 440037",
+    "image": "./rustom.jpg"
+  },
+  {
+    "name": "L&T Realty",
+    "price": "35 Lakhs",
+    "detail": "12 L & T House, North Ambazari Road, Shivaji Nagar, Nagpur - 440010",
+    "image": "./lt.jpg"
+  }
+]
